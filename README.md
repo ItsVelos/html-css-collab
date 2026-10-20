@@ -2,7 +2,7 @@
 ## Od zera do webmastera
 
 ### Instrukcja korzystania:
-- wybierz branch odpowiadający konkretnemu collabowi
+- wybierz katalog odpowiadający konkretnemu collabowi
 - każdy collab zawiera trzy pliki z instrukcjami:
 	- 1.Brief.md - krótkie opisanie co jest do zrobienia w ramach danego collaba; najbardziej lakoniczne, dla tych, którzy preferują "rozpoznanie bojem"
 	- 2.Tech.md - nieco dłuższe wyjaśnienie, bardziej techniczne, omawiające szczegóły od strony teoretycznej
